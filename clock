@@ -1,9 +1,0 @@
-import javax.swing.*;
-import java.awt.*;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-public class SimpleClock extends JFrame{
-     private JLabel timeLabel;
-     public SimpleClock() }
-        setTitle("Simple Clock");
-        setSize(300, 150);
